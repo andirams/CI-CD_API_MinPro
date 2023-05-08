@@ -21,7 +21,7 @@ public class Register {
         JSONObject requestBody = new JSONObject();
 
         // GANTI SETIAP RUN
-        requestBody.put("email", "someoneitwww11223335@gmail.com");
+        requestBody.put("email", "someoneitwww112233356@gmail.com");
         requestBody.put("password", "123123123");
         requestBody.put("fullname", "Firstname Lastname");
 
